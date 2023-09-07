@@ -1,5 +1,4 @@
-#Welcome to my github profile
-
+# HI there
 - 👋 Hi, I’m @prodeveloper09
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
